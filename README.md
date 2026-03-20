@@ -20,8 +20,6 @@ I created this dashboard to understand sales data better and find useful insight
 - Excel
 - SQL (for practice queries)
 
-## Dashboard preview
-![Dashboard](dashboard.png)
 
 ## Files in this repo
 - SalesDashboard.pbix → main Power BI file
