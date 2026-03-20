@@ -1,37 +1,46 @@
-# PowerBi-Dashboard
-# Sales Dashboard (Power BI)
+# Super Store Dashboard (Power BI)
 
-## About this project
-I created this dashboard to understand sales data better and find useful insights like top products, monthly trends, and overall performance.
+## About
+This dashboard is based on the Super Store dataset. I built it to understand overall sales and profit performance and to see how different factors like region, category, and payment mode affect the business.
 
-## What I did
-- Cleaned the raw data in Excel
-- Imported data into Power BI
-- Built relationships and created measures using DAX
-- Designed an interactive dashboard
+## Tools Used
+- Power BI  
+- Excel  
 
-## Key findings
-- Sales were highest in [Month]
-- [Category] performed the best
-- Some products had high sales but low profit
+## Dashboard Highlights
+- Total Sales: 88.37K  
+- Total Profit: 15.44K  
+- Avg Sales per Day: 3.94  
 
-## Tools used
-- Power BI
-- Excel
-- SQL (for practice queries)
+## What I Did
+- Cleaned and prepared the dataset in Excel  
+- Built an interactive dashboard in Power BI  
+- Added filters for Region (Central, East, South, West)  
+- Analyzed sales by category and sub-category  
+- Compared different ship modes and payment methods  
+- Tracked monthly sales and profit trends  
 
+## Forecasting
+- Used Power BI forecasting on monthly sales data  
+- Predicted upcoming sales trends based on historical data  
+- Helped understand possible future performance  
 
-## Files in this repo
-- SalesDashboard.pbix → main Power BI file
-- dashboard.png → screenshot of dashboard
-- dataset.csv → dataset used
+## Insights
+- Technology category shows strong sales compared to others  
+- COD is the most used payment method  
+- Standard shipping is used the most  
+- Sales fluctuate across months but show growth in some periods  
 
-## What I learned
-- How to create dashboards in Power BI
-- Writing basic DAX measures
-- Turning raw data into insights
+## Files
+- SuperStore.pbix  
+- dataset.csv  
 
-## Future improvements
-- Add more detailed analysis
-- Improve dashboard design
-- Use real-time data
+## Learning
+This project helped me understand how to:
+- Build dashboards from scratch  
+- Work with real business data  
+- Use filters and visuals effectively  
+- Apply basic forecasting in Power BI  
+
+## Author
+Diwakar
